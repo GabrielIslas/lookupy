@@ -1,0 +1,266 @@
+text,wherestudent,whereadmin,whereprof,whereperson,wherebuild,whereclassroom,classesprofessor,subjectprofessors,studenttutor,grouptutor,classroomoccupied,groupstudents,groupclasses,groupclassroom,careergroups,careercoord,time
+I need to know the timetable for the group Data 5B.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"I need to locate our secretary David, can you help, around on Friday?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you help me find student Casey 9:00am?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where's the office of Karen, the director?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I need to meet with Jordan, where can I find them Monday?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Which groups are part of the Cybersecurity department?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Who are the professors involved in Network Security?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+I need to know the groups under the Immersion program.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"I need to locate student Dakota, where are they?",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you list the professors who teach Engineering?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Can you tell me if classroom J337 is in use around next week?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Trying to locate Professor Williams for a Mathematics query 3:30pm.,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you direct me to building F?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Who is the coordinator for the Cybersecurity program?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"I'm looking for Building H, can you assist me?",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+I need to know the tutor assigned to the group Cybersecurity 3E.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Trying to locate Professor Rodriguez for a Biology query Monday.,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Who is responsible as a tutor for Karen Wilson?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I want to find out the groups associated with Cybersecurity.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+I want to know the teaching staff for Quantum Computing.,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Where could Chloe Kim be found at 4:00 pm today?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I need to find out the tutor for student Jordan.,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+What is the classroom assigned to Robotics 6E?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Who are the professors teaching Physics this semester?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Where can I find Lisa Davis from student services around lunchtime?,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+What is the current status of classroom M201?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"I'm looking for David, our new administrator, 9:00am.",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where's the office of Thomas, the administrator?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm looking for the coordinator of the Robotics program.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Can you provide the classroom details for the group Cybersecurity 4D?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Can you direct me to classroom C351?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Where is Jordan right now?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you tell me if classroom F991 is in use around next week?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+I need to know the coordinator of the Data Engineering department.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Can you help me find where Emily Johnson is right now?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where is Jordan right now?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you tell me where the Mathematics professor Williams is on next week?,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where's the office of Linda, the coordinator, 3:30pm?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I need to know if classroom G219 is free or occupied.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Which classes are being taught by David Brown this year?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+How do I get to classroom M652?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Where is the student Riley located?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where is the classroom for the group Data 2D?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Where should I go for the Embedded 5D class?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Which classroom does the group Cybersecurity 5B use?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Where is the student Riley located?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where should I look for Emma Wilson during the evening?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+How do I get to building I?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Can you check the occupancy status of classroom M419?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Trying to locate the administrator Karen Monday, any ideas?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I'm trying to find the location of Building B. Could you help?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Can you tell me where the Physics professor Smith is on 3:30pm?,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you find out who tutors the Data 2C group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Is there a way to track down student Lisa Wilson within the university? ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you tell me if classroom I343 is in use right now?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"I'm looking for the tutor of Casey, do you know who it is?",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+What's the roster for the Embedded 1E group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+What is the status of classroom G888 on 9:00am?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+What are the classes for the group Robotics 6A?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+What are the classes for the group Embedded 5A?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Where is Riley right now, tomorrow?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you check the occupancy status of classroom L148 for next week?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Can you give me the name of the Robotics program coordinator?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Who teaches the Introduction to Robotics course?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Is Building D near the cafeteria?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Can you show me on the map where classroom F576 is?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+I need to know if classroom J846 is free or occupied Monday.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Can you tell me the different groups in Robotics?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Can you tell me the schedule of Data 1D?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Where is Morgan right now?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I need to know the timetable for the group Cybersecurity 3F.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Where is building D located in the university?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Can you provide the student list for the group Data 3E?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Can you tell me who Morgan's tutor is?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I need to know if classroom M629 is free or occupied.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Where can I find Dakota, a student here?",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you tell me where to find student Peyton on noon?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Locate the class venue for Robotics 7H.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+What classes does Embedded 3C have?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Trying to find Jordan, do you know where they are?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trying to find Quinn, do you know where they are tomorrow?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you list the students from Cybersecurity 1E?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Where is building D located in the university?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Where is Alex right now, tomorrow?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where is the student Quinn located on Friday?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Trying to locate the administrator Patricia 9:00am, any ideas?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you provide the student list for the group Data 4F?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+What classes does Professor Smith teach?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Can you help me find the Mathematics professor, Dr. Johnson, next week?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I'm looking for someone named Morgan, where might they be 3:30pm?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Is classroom D294 occupied at 3:30pm?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Who is assisting the group Data 5B as their tutor?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"I'm looking for someone named Lee, where might they be this afternoon?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you tell me if classroom E329 is in use right now?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Which way to building M?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Who is the tutor for the Data 4A group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Can you direct me to classroom H192?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Where might I find Dr. Davis, the Chemistry professor?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you provide the list of groups in Embedded Systems?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Can you list the courses for the group Embedded 1B this semester?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"I'm looking for our finance manager, Alex Smith. Any idea where he might be?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Is classroom C955 occupied at tomorrow?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Where's the office of Professor Davis?,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I need to meet with Dakota, where can I find them noon?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+What is the classroom assigned to Robotics 3F?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Can you tell me who Dakota's tutor is?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"I'm looking for the tutor of Taylor, do you know who it is?",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"I need to locate our director Linda, can you help?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you tell me the tutor for the Cybersecurity 5D group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+How do I get to building I?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm looking for David, our new director.",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Do you know if classroom G377 is being used at 9:00am?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Can you help me find student Riley?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where can I find Sam?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you help me find where classroom B204 is?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+What are the groups in the Cybersecurity career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+What's the teaching schedule of Johnson?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Where is classroom D406 located in the university?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"I need to speak with Dr. Martinez, where is their office around Monday?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you tell me who Jordan's tutor is?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Where might I find Dr. Johnson, the Physics professor?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Trying to locate the administrator Linda, any ideas?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you help me find our university's secretary Susan in the morning?,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+How do I get to classroom K200 from here?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Can you check the occupancy status of classroom B755?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"I need to locate student Taylor, where are they next week?",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you help me find student Alex?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Which way to classroom C291?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Where can I find student Riley at on Friday?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Who is the tutor for the group Robotics 1D?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Can you tell me where the Physics professor Brown is?,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Could you tell me where to find Sophia Patel at 11:00 am?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I need to speak with Dr. Garcia, where is their office?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Who has been designated as the tutor for Embedded 4C?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Can you tell me where the Biology professor Garcia is?,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm wondering if classroom F607 is in use.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Which way to classroom I604?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Any idea where Quinn could be at the moment?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you list all the groups in the Data Engineering career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+I need to know the teaching staff for Mathematics.,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Is classroom K314 occupied at Monday?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+I need to know the timetable for the group Embedded 1D.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Could you check if classroom E506 is free at noon today?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Where does the group Cybersecurity 6A have their classes?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+I need the names of the students in the group Robotics 5F.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"I'm trying to find classroom L448, can you help?",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Can you give me the name of the Cybersecurity program coordinator?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"I'm trying to find classroom F120, can you help?",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Which subjects does Data 6B have this quarter?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Who is assisting the group Cybersecurity 6D as their tutor?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"I'm looking for the tutor of the group Robotics 5D, do you know who it is?",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Can you list the students from Data 2C?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+I need to find out the tutor for student Taylor.,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Trying to locate Morgan, a student, can you help?",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Which classroom does the group Robotics 4F use?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+What classes does Professor Martinez teach?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Can you tell me who Casey's tutor is?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Do you know if classroom L505 is being used currently?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Which classroom does the group Cybersecurity 6C use?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Can you tell me the classroom location of Cybersecurity 6C?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"I need to locate our administrator Susan, can you help, around 9:00am?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I need to know if classroom K201 is free or occupied tomorrow.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Who is the tutor assigned to Jordan?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"I'm looking for Professor Rodriguez, any idea where they are tomorrow?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I need to know the coordinator of the Embedded Systems department.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Which courses are being taught by Professor Williams this semester?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+What are the classes for the group Cybersecurity 2D?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+What classes does Jones teach?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Who is assisting the group Cybersecurity 5C as their tutor?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+What are the groups in the Data Engineering career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Where can I find Alex?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you help me find our university's manager Karen 9:00am?,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I need to know the groups under the Data Engineering program.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+How do I get to building L?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Is there a class in classroom D992 at the moment?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Can you tell me where to find student Alex on next week?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Do you know the current location of Riley?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you tell me where to find administrative staff member Joseph on Monday?,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+What's the teaching schedule for Professor Laura Martinez?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Help me find the student named Morgan.,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm looking for the tutor of the group Data 6A, do you know who it is?",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+I need to know the tutor assigned to the group Data 6C.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+I need the names of the students in the group Data 2C.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"I'm looking for Professor Johnson, any idea where they are?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Do you know the current location of Lee?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where is the office of David Brown, our IT head?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Do you have a list of instructors for the Software Engineering subject?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Can you list the courses taught by Professor Rodriguez?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Where is the classroom for the Data 6B group?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Where is the student Taylor located next week?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where might I find Morgan, who is a student here?",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'd like to know the students in the Embedded 4L group.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Can you tell me if classroom B203 is in use this Friday at 2:00 pm?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Can you provide the class list for the group Robotics 4E?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+I need to know the groups under the Embedded Systems program.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Any idea where Morgan could be at the moment?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Who is in charge of the Cybersecurity program?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+I need to know the timetable for the group Embedded 3E.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Is classroom G966 currently occupied?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Where's student Morgan going to be Monday?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where's the office of Robert, the director?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"How do I get to James Lopez, the philosophy professor, at 11:00 am?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you list the students in the Data 7J group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Can you check the occupancy status of classroom L166?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"I'm looking for the tutor of Taylor, do you know who it is?",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I'm interested in knowing what courses Chris Wilson is teaching.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Help me find the student named Quinn.,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I need to locate student Morgan, where are they next week?",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I'm trying to find a person named John Kim. Where should I look around noon?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Can someone tell me where the admissions officer, Maria Garcia, will be at 10:00 am?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where can I find the coordinator named Joseph?,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I need directions to building C.,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Trying to find Quinn, do you know where they are 9:00am?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+What are all the Robotics groups available this year?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"I'm looking for Professor Smith, any idea where they are in the morning?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I'm looking for Alex Johnson. Do you know where he is this morning?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+What are the groups in the Embedded Systems career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Which professors are involved in the History department?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Which groups are part of the Embedded Systems department?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Where's the office of Professor Miller, in the morning?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Could you provide the list of students in the Cybersecurity 5M group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Can you direct me to classroom D666?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+I need to know the timetable for the group Embedded 4F.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+What classes does Professor Johnson teach this semester?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+I need the names of the students in the group Cybersecurity 4C.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Who are the students in the group Robotics 3B?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Do you have information on the courses Professor Sarah Johnson is offering?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Where's student Jordan right now?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm looking for someone named Sam, where might they be 9:00am?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I need to speak with Dr. Williams, where is their office?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where can I find Jordan?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Who are the professors teaching Chemistry this semester?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"I'm looking for Professor Garcia, any idea where they are?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Is classroom I307 available right now?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"I need to speak with Dr. Garcia, where is their office?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I need to know the coordinator of the Data Engineering department.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Who is the coordinator for the Robotics program?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Can you tell me where the Biology professor Davis is?,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Who is the coordinator of the Data Engineering career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+What are the teaching assignments for Professor Robert Miller?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Which way to classroom F128?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Which courses are being taught by Professor Smith this semester?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Trying to locate Professor Brown for a Biology query Monday.,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Who is the tutor for the group Cybersecurity 1F?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Trying to find Dakota, do you know where they are on Friday?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Who is the coordinator for the Robotics program?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Who teaches Physics in our university?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Who is the coordinator for the Cybersecurity program?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Do you know the current location of Jordan 9:00am?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you show me on the map where building G is?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Which professors are involved in the Computer Science department?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Where might I find Susan, who works in administration, in the morning?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where is Sandalio Leith currently located within the university? ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where is Lee right now?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Is there a class in classroom B272 next week?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"Where's the office of David, the manager?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trying to locate Professor Martinez for a Chemistry query 9:00am.,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where's the office of Joseph, the manager?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Who is the academic tutor for Chris Lee this year?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+What's the roster for the Data 2C group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Trying to locate the administrator David, any ideas?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Who are the professors teaching Computer Science this semester?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Who has been assigned as the tutor for Peyton?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"I need to speak with Dr. Rodriguez, where is their office?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm looking for Linda, our new administrator, Monday.",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
