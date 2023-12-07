@@ -35,7 +35,7 @@ Since the table qa model only extracts the specific answer and I wanted a natura
 the OpenAI API to generate it. It is very simple and pretty much just like using ChatGPT. You can see this in
 the [anstextgen.ipynb](https://github.com/GabrielIslas/lookupy/blob/main/anstextgen.ipynb) notebook
 ## Everything together
-You can see an example of the process in the background of a UI in the [lookupy.ipynb](https://github.com/GabrielIslas/lookupy/blob/main/lookupy.ipynb)
+You can see an example of the full process that would ideally be in the background of a UI in the [lookupy.ipynb](https://github.com/GabrielIslas/lookupy/blob/main/lookupy.ipynb)
 Ideally, the models would be preloaded and it would be running constantly for its usage, but for now this will do.
 
 # Thank you section
