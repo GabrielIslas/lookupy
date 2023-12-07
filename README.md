@@ -13,6 +13,7 @@ The pipeline consists of four key sections:
 - The extraction of the required table from a PSQL database
 - The extraction of the answer from the table using table question answering (TAPAS)
 - The natural language answer generated using text generation (OpenAI)
+
 These sections are in different notebooks, which have comments explaining everything I did. I will guide you
 through them.
 ## Multi-label classification using a trained BERT model
