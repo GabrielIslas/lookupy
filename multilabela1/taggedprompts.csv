@@ -1,0 +1,273 @@
+text,wherestudent,whereadmin,whereprof,whereperson,wherebuild,whereclassroom,classesprofessor,subjectprofessors,studenttutor,grouptutor,classroomoccupied,groupstudents,groupclasses,groupclassroom,careergroups,careercoord,time
+Where can I find the student Elizabeth Ramos?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+How do I locate student Rayner Mathew? ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm trying to find the student Rayner Mathew. Where should I go to meet him?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm looking for this student: Emily Davis,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where is Sandalio Leith currently located within the university? ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Could you assist me in locating student Kyson Earnestine, please? ",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I need to find Alex Ramirez. Can you tell me where he is? ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Is there a way to track down student Lisa Wilson within the university? ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tell me the whereabouts of student Jessica Lee, if you can. ",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I have information on a student named Robert Miller. Where can I find him? ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Help me locate the student Jennifer Brown within the university grounds. ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm trying to find student Daniel Taylor. Where should I go to meet him? ,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where can I find John Smith around 3:00 pm today?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Is Sarah Johnson in the library this morning?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I need to locate Michael Brown by this afternoon. Where might he be?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can someone tell me where Emily Clark will be at 10:00 am?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Do you know the current location of Carlos Martinez at 2:30 pm?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where should I look for Emma Wilson during the evening?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I'm trying to find Oliver Lee in the evening. Any idea where he might be?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+At what place can I meet Jessica Li around noon?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where is Daniel Garcia expected to be this afternoon?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Could you tell me where to find Sophia Patel at 11:00 am?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I'm searching for Lucas Nguyen in the early morning. Any suggestions?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where could Chloe Kim be found at 4:00 pm today?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Any clue about the whereabouts of Mia Robinson around lunchtime?,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where can I find the administrator Jane Doe in the campus?,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm looking for our finance manager, Alex Smith. Any idea where he might be?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Can someone help me locate the admissions officer, Maria Garcia?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I need to speak with the registrar, Emily Johnson. Where is her office?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where is the office of David Brown, our IT head?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm trying to find the administrative assistant, Sarah Wilson. Where should I look?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where does the campus director, Michael Martinez, usually work?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Can you direct me to the human resources manager, Mary Lee?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I need the location of John Kim, the head of maintenance.",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where can I find Lisa Davis, who works in student services?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"How do I get to the office of our campus security chief, James Lopez?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where is the office of our enrollment specialist, Barbara Gonzalez?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Can you tell me where to find the academic advisor, Elizabeth Clark?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where can I find the registrar, Emily Johnson, around 4:00 pm today?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Is the finance manager, Alex Smith, in his office this afternoon?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Can someone tell me where the admissions officer, Maria Garcia, will be at 10:00 am?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I need to speak with Jane Doe, the administrator, this morning. Where is she?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where is David Brown, our IT head, expected to be at 2:30 pm?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I'm trying to find Sarah Wilson, the administrative assistant, this evening. Any idea where?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where does Michael Martinez, the campus director, usually work in the afternoon?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Can you direct me to Mary Lee, the human resources manager, around noon?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I need the location of John Kim, the head of maintenance, early in the morning.",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where can I find Lisa Davis from student services around lunchtime?,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"How do I get to James Lopez, the campus security chief, at 11:00 am?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where is Barbara Gonzalez, our enrollment specialist, this evening?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Can you tell me where to find Elizabeth Clark, the academic advisor, in the late afternoon?",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where can I find Professor John Smith in the university?,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm looking for Dr. Sarah Johnson, the physics professor. Any idea where she might be?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Can someone help me locate Professor Michael Brown, the computer science lecturer?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I need to speak with Emily Clark, who teaches mathematics. Where is her office?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where is the office of David Martinez, our chemistry professor?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm trying to find the history professor, Sarah Wilson. Where should I look?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where does Professor Michael Lee, who teaches English literature, usually work?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Can you direct me to Dr. Mary Garcia, the biology professor?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"I need the location of Professor John Kim, the engineering lecturer.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where can I find Lisa Davis, who teaches art history?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"How do I get to the office of James Lopez, the philosophy professor?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Where is the office of Barbara Gonzalez, who specializes in psychology?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Can you tell me where to find Elizabeth Clark, the sociology professor?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where can I find Professor John Smith around 3:00 pm today?,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Is Dr. Sarah Johnson, the physics professor, in her office this morning?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Can someone tell me where Professor Michael Brown, the computer science lecturer, will be at 10:00 am?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I need to speak with Emily Clark, the math teacher, this afternoon. Where is she?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where is David Martinez, our chemistry professor, expected to be at 2:30 pm?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I'm trying to find Sarah Wilson, the history professor, this evening. Any idea where?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where does Professor Michael Lee, who teaches English literature, usually work in the afternoon?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Can you direct me to Dr. Mary Garcia, the biology professor, around noon?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"I need the location of Professor John Kim, the engineering lecturer, early in the morning.",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where can I find Lisa Davis, the art history teacher, around lunchtime?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"How do I get to James Lopez, the philosophy professor, at 11:00 am?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Where is Barbara Gonzalez, the psychology specialist, this evening?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Can you tell me where to find Elizabeth Clark, the sociology professor, in the late afternoon?",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you help me find where Emily Johnson is right now?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm looking for someone named David Smith on campus. Do you know where he might be?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Is there a way to locate a person named Sarah Brown in the university?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where can I find a person by the name of Michael Martinez?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I need to track down someone called Lisa Davis. Any idea where she is?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can anyone tell me where to find James Lee?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm trying to find a person named John Kim. Where should I look?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Do you know where Maria Garcia is at the moment?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where might I locate someone named Chris Wilson?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm looking for Alex Johnson. Do you know where he is?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can someone assist me in finding Emma Thompson?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where can I find a person named Oliver Clark in the university?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I need to locate a person named Sophia Martinez. Any suggestions?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can you help me find where Emily Johnson is around 3:00 pm today?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I'm looking for someone named David Smith on campus this morning. Do you know where he might be?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Is there a way to locate a person named Sarah Brown in the university this afternoon?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where can I find a person by the name of Michael Martinez at 10:00 am?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I need to track down someone called Lisa Davis. Any idea where she is this evening?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can anyone tell me where to find James Lee in the early morning?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I'm trying to find a person named John Kim. Where should I look around noon?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Do you know where Maria Garcia is at the moment, say around 2:30 pm?",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where might I locate someone named Chris Wilson this afternoon?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I'm looking for Alex Johnson. Do you know where he is this morning?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can someone assist me in finding Emma Thompson around lunchtime?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Where can I find a person named Oliver Clark in the university this evening?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+I need to locate a person named Sophia Martinez. Any suggestions for her location at 11:00 am?,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Can you tell me where Building G is located on campus?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+I'm trying to find the location of Building B. Could you help?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Where can I find Building M in the university?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm lost, can you point me towards Building C?",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Could you provide directions to Building A?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"I need to get to Building J, where is it exactly?",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Excuse me, how do I get to Building E from here?",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+What's the quickest way to Building F?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Is Building D near the cafeteria?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm looking for Building H, can you assist me?",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Where is Building I in relation to the main library?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Could you show me on the map where Building L is?,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"I'm new here, can you guide me to Building K?",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Can you help me find where classroom B204 is?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"I need directions to classroom A105, please.",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Where is classroom C310 located in the university?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"I'm looking for classroom D123, can you guide me?",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Could you tell me how to get to classroom E001?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"I'm not sure where classroom F456 is, can you assist?",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Excuse me, what's the best route to classroom G789?",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Do you know the location of classroom H321 on campus?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"I'm trying to find classroom I654, can you help?",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Where can I find classroom J110 in the university?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+How do I get to classroom K200 from here?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Is classroom L303 near the student center?,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"I'm new here, could you direct me to classroom M307?",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+What classes does Professor Johnson teach this semester?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Can you tell me which courses are taught by Dr. Emily Smith?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+I'm looking for the classes imparted by John Doe. Could you help?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+What's the teaching schedule for Professor Laura Martinez?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Could you list the subjects taught by Mark Thompson?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+I need to know the courses Professor Angela White is teaching.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Which classes are being taught by David Brown this year?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Do you have information on the courses Professor Sarah Johnson is offering?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+What is the current teaching timetable for Kevin Garcia?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+I'm interested in knowing what courses Chris Wilson is teaching.,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Can you provide the class list for Professor Jennifer Lee?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Which subjects does Alice Green teach in the university?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+What are the teaching assignments for Professor Robert Miller?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Who are the professors teaching Calculus this semester?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Can you list all the professors for the subject Data Structures?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+I need to know the faculty members teaching Machine Learning.,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Who teaches the Introduction to Robotics course?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Could you tell me the professors responsible for Cybersecurity Principles?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+I'm looking for all the professors involved in the Embedded Systems course.,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Which professors are handling the Advanced Algorithms class?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Do you have a list of instructors for the Software Engineering subject?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+I want to know the teaching staff for Quantum Computing.,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Who are the lecturers for Digital Signal Processing this year?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Can you provide the names of the professors teaching Artificial Intelligence?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+I'm interested in the faculty teaching Computational Theory.,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Who are the professors involved in Network Security?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Who is the assigned tutor for student Michael Johnson?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Can you tell me who Emily Smith's tutor is this semester?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I need to find out the tutor for James Williams. Who is it?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Who is assigned as the tutor for Sarah Brown?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Could you provide the name of John Davis's tutor?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I'm trying to determine the tutor for Jessica Garcia.,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Who is responsible as a tutor for Karen Wilson?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I'd like to know who is tutoring Robert Martinez.,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Can you find out the tutor for Laura Hernandez?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Who is the academic tutor for Chris Lee this year?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I'm looking for the tutor assigned to Jennifer Thomas.,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+What's the name of the tutor for Andrew Jackson?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Who has been designated as Lisa White's tutor?,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Who is the tutor for the Data 4A group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Can you tell me the tutor assigned to the Robotics 2B group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+I need the tutor information for the Embedded 1C group.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Who's tutoring the Cybersecurity 3D group this semester?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Could you provide the tutor details for the Data 6F group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+I'm looking for the tutor of the Embedded 5E group.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Who is responsible for tutoring the Robotics 7G group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+What's the name of the tutor for the Cybersecurity 8H group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+I need to know the tutor for the Immersion 1A group.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Can you find out who tutors the Data 2C group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Who's in charge of the Embedded 4B group as a tutor?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+What tutor is assigned to the Robotics 3F group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Can you tell me the tutor for the Cybersecurity 5D group?,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Is classroom A102 in use right now?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Can you check if classroom B203 is occupied?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+I need to know if classroom C304 is currently being used.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Is there a class going on in classroom D405 at the moment?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Could you tell me if classroom E506 is free or occupied?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+I'm wondering if classroom F607 is in use.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Is classroom G708 available or is there a lecture happening?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Can you find out if classroom H809 is being used currently?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+I want to know if classroom I910 is occupied.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Is classroom J011 being utilized right now?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Do you know if classroom K112 is occupied at the moment?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Is there any activity in classroom L213 now?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Could you check whether classroom M314 is in use?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Is classroom A102 occupied at 10:00 am tomorrow?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Can you tell me if classroom B203 is in use this Friday at 2:00 pm?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Will classroom C304 be occupied on Monday at 9:00 am?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Is there a class scheduled in classroom D405 this afternoon?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Could you check if classroom E506 is free at noon today?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+I'm wondering if classroom F607 will be in use next Wednesday at 3:00 pm.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Is classroom G708 available tomorrow morning or is it occupied?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Can you find out if classroom H809 is being used this Thursday at 11:00 am?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+I want to know if classroom I910 is occupied this evening.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Is classroom J011 being utilized at 8:00 am next Monday?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Do you know if classroom K112 is occupied this Friday at 4:00 pm?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Will there be any activity in classroom L213 tomorrow at 10:30 am?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Could you check whether classroom M314 is in use this Saturday at 1:00 pm?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Can you provide a list of students in the Data 3A group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Who are the members of the Robotics 2B group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+I need the names of students in the Embedded 1C group.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Could you tell me who is in the Cybersecurity 4D group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+I'm looking for the student roster of the Data 5E group.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Who are the students in the Immersion 1F group this semester?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Can you give me the names of students in the Robotics 3G group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+I want to know the members of the Embedded 2H group.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+What are the names of students in the Cybersecurity 6I group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Can you list the students in the Data 7J group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Who is enrolled in the Robotics 8K group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+I'd like to know the students in the Embedded 4L group.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Could you provide the list of students in the Cybersecurity 5M group?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Can you list all the groups in the Data Engineering career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+What are the student groups for Robotics this semester?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+I need to know the groups under the Embedded Systems program.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Which groups are part of the Cybersecurity career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Could you tell me the groups involved in the Immersion program?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+I'm looking for the different groups in Data Engineering.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+What are all the Robotics groups available this year?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Can you provide the list of groups in Embedded Systems?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+I want to find out the groups associated with Cybersecurity.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Which groups are included in the Immersion program for beginners?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Show me the groups that are part of Data Engineering.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"List the groups in the Robotics career for me, please.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+I'd like to know the various groups under Embedded Systems.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Who is the coordinator of the Data Engineering career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Can you tell me the name of the Robotics career coordinator?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+I need to know who coordinates the Embedded Systems program.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Who is in charge as the coordinator for the Cybersecurity career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Could you tell me who the coordinator for Data Engineering is?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+I'm looking for the coordinator of the Robotics program.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Who manages the Embedded Systems career as the coordinator?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+What's the name of the Cybersecurity career coordinator?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Can you provide the contact for the Data Engineering coordinator?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Who is the head coordinator for the Robotics career?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+I want to find out who coordinates the Embedded Systems career.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Who oversees the Cybersecurity program as the coordinator?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Could you give me the details of the Data Engineering career coordinator?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+What classes is Data 4A taking this semester?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Can you tell me the schedule for the Robotics 2F group?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+I need to know the subjects for Cybersecurity 3B.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+What courses are on the timetable for Embedded 1C?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Could you list the classes for the Immersion 1D group?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Which subjects does Data 6B have this quarter?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+I'm looking for the class schedule of Robotics 5A.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Show me the course lineup for Embedded Systems 4G.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+What's on the agenda for Cybersecurity 2E this term?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Need information on the subjects taken by Data 3H.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+What are the current courses for the Immersion 2F group?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Tell me about the classes Robotics 1J has this week.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+I want to see the course details for Embedded 7E.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Where is the classroom for the Data 6B group?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Which room is Robotics 3F using for their classes?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Can you find the location of Embedded Systems 2A's classroom?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+I need to know where the Cybersecurity 4C group meets.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Tell me the classroom for Immersion 1D.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+What's the room number for Data Engineering 5G's lectures?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Locate the class venue for Robotics 7H.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Find the classroom for Embedded 2B.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Where does Cybersecurity 1E have their sessions?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+I'm looking for the room assignment of Data 3J.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Identify the class location for Immersion 6F.,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Which classroom is being used by Robotics 4K?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Where should I go for the Embedded 5D class?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
